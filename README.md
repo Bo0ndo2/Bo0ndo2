@@ -39,20 +39,11 @@
 
 ---
 
-## 🚀 Featured Projects
 
-- 🔗 [Project 1](https://github.com/your-repo) — Short description
-- 🔗 [Project 2](https://github.com/your-repo) — Short description
-- 🔗 [Project 3](https://github.com/your-repo) — Short description
-
----
 
 ## 📫 Contact Me
 
-- Email: yourmail@gmail.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Portfolio: https://yourportfolio.com  
-
+- Email: mujahiiidd@gmail@gmail.com  
 ---
 
 ⭐️ If you like my work, consider giving a star!
