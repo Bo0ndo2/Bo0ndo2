@@ -43,7 +43,7 @@
 
 ## 📫 Contact Me
 
-- Email: mujahiiidd@gmail@gmail.com  
+- Email: mujahiiidd@gmail.com  
 ---
 
 ⭐️ If you like my work, consider giving a star!
